@@ -2,7 +2,7 @@
 
 > An intuitive markdown cheatsheet.
 
-It's live at http://markdown.chibi.io.
+It's live at http://chibicode.github.io/markdown-toolbar-cheatsheet.
 
 ## Motivation
 
